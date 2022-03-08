@@ -1,4 +1,4 @@
-a {
+/* a {
     @apply text-green-500 hover:bg-green-100 hover:text-green-700 hover:underline;
 }
 button {
@@ -6,4 +6,4 @@ button {
 }
 code {
     @apply bg-gray-200 rounded p-1 px-2 mx-2 border-gray-300 border-2;
-}
+} */

@@ -33,11 +33,11 @@ He is a Core team member of [Vue](https://vuejs.org/), [Nuxt](http://nuxtjs.org/
 If you already know how to style with Tailwind, then Windi should be just as easy.
 
 ### To Do
-- [ ] Install plugins
-- - [ ] aspect-ratio [#](https://windicss.org/plugins/official/aspect-ratio.html)
-- - [ ] forms [#](https://windicss.org/plugins/official/forms.html)
-- - [ ] filters [#](https://windicss.org/plugins/official/filters.html)
-- - [ ] line-clamp [#](https://windicss.org/plugins/official/line-clamp.html)
-- - [ ] scroll-snap [#](https://windicss.org/plugins/official/scroll-snap.html)
-- - [ ] typography [#](https://windicss.org/plugins/official/typography.html)
+- [x] Install plugins
+- - [x] aspect-ratio [#](https://windicss.org/plugins/official/aspect-ratio.html)
+- - [x] forms [#](https://windicss.org/plugins/official/forms.html)
+- - [x] filters [#](https://windicss.org/plugins/official/filters.html)
+- - [x] line-clamp [#](https://windicss.org/plugins/official/line-clamp.html)
+- - [x] scroll-snap [#](https://windicss.org/plugins/official/scroll-snap.html)
+- - [x] typography [#](https://windicss.org/plugins/official/typography.html)
 - [ ] Create several template pages using Vue Router
